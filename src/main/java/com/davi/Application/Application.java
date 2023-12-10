@@ -1,8 +1,8 @@
 package com.davi.Application;
 
-import com.davi.QueryCep;
-import com.davi.CreateFile;
-import com.davi.Address;
+import com.davi.service.QueryCep;
+import com.davi.service.CreateFile;
+import com.davi.service.Address;
 
 import java.util.Scanner;
 

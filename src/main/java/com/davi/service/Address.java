@@ -1,4 +1,4 @@
-package com.davi;
+package com.davi.service;
 
 public record Address(String cep,
                       String logradouro,
